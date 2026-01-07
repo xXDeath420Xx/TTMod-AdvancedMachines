@@ -7,3 +7,4 @@ C:\Users\crawf\TechtonicaMods\NewMods\AdvancedMachines\obj\Debug\net472\Advanced
 C:\Users\crawf\TechtonicaMods\NewMods\AdvancedMachines\obj\Debug\net472\AdvancedMachines.csproj.CoreCompileInputs.cache
 C:\Users\crawf\TechtonicaMods\NewMods\AdvancedMachines\obj\Debug\net472\AdvancedMachines.dll
 C:\Users\crawf\TechtonicaMods\NewMods\AdvancedMachines\obj\Debug\net472\AdvancedMachines.pdb
+C:\Users\crawf\TechtonicaMods\NewMods\AdvancedMachines\obj\Debug\net472\AdvancedMachines.sourcelink.json

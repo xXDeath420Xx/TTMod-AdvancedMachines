@@ -7,3 +7,4 @@ C:\Users\crawf\TechtonicaMods\NewMods\AdvancedMachines\bin\Release\net472\Advanc
 C:\Users\crawf\TechtonicaMods\NewMods\AdvancedMachines\bin\Release\net472\AdvancedMachines.pdb
 C:\Users\crawf\TechtonicaMods\NewMods\AdvancedMachines\obj\Release\net472\AdvancedMachines.dll
 C:\Users\crawf\TechtonicaMods\NewMods\AdvancedMachines\obj\Release\net472\AdvancedMachines.pdb
+C:\Users\crawf\TechtonicaMods\NewMods\AdvancedMachines\obj\Release\net472\AdvancedMachines.sourcelink.json
